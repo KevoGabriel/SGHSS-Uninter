@@ -20,26 +20,6 @@ TypeScript – Tipagem estática para maior segurança e clareza no código.
 
 Tailwind CSS – Estilização utilitária, garantindo consistência e rapidez.
 
-📁 Estrutura do Projeto
-src/
-├─ components/
-│  ├─ ui/
-│  │  ├─ AppointmentCard.tsx
-│  │  ├─ BottomNav.tsx
-│  │  ├─ CreateAppointment.tsx
-│  │  ├─ Dashboard.tsx
-│  │  ├─ History.tsx
-│  │  ├─ Login.tsx
-│  │  ├─ Profile.tsx
-│  │  ├─ Settings.tsx
-│  │  ├─ Statistics.tsx
-│  │  └─ WaitingList.tsx
-├─ styles/
-│  └─ globals.css
-├─ App.tsx
-├─ index.css
-└─ main.tsx
-
 🔄 Fluxo Principal
 
 O usuário inicia pela tela de Login e, após autenticação, acessa o Dashboard, que centraliza as informações gerais.
